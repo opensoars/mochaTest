@@ -1,0 +1,13 @@
+{
+  "name": "mochaTest",
+  "version": "0.0.1",
+  "private": true,
+
+  "scripts": {
+  	"test": "mocha test/additions.js && mocha test/substractions.js && mocha test/multiplications.js && mocha test/divisions.js && mocha"
+  },
+
+  "devdependencies": {
+  	"mocha": "*"
+  }
+}
