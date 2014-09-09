@@ -7,4 +7,4 @@ Simple introduction to Mocha testingframework.
 `npm test`
 
 ### Content
-1. [Basic mathematical operations (sync).](https://github.com/opensoars/mochaTest/tree/master/basicMath)
+1. Basic mathematical operations (sync).
